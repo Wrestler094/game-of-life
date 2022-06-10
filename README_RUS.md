@@ -1,4 +1,4 @@
-# P02D13
+# Game of life
 
 ![game-of-life](misc/game-of-life.png)
 
